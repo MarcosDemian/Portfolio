@@ -1,0 +1,85 @@
+{
+    "home section":{
+        "home__greeting":"Hola, yo soy",
+        "home__education":"Desarrollador Full Stack",
+        "home__buttons": "Descargar CV",
+        "button": "Sobre Mi"
+    },
+    
+    "about section":{
+        "about__title0": "Experiencia",
+        "about__subtitle0": "+800hs de codeo",
+        "about__title1": "Proyectos",
+        "about__subtitle1": "X cantidad",
+        "about__title": "Atencion",
+        "about__subtitle2": "En Linea 24/7",
+        "about__description": "Soy un Full Stack Developer y llevo codeando varios meses esforzandome ara aprender y superarme en esto quetanto amo que es la programacion. <br> Aca vas a encontrar los resultados de dicho esfuerzo, espero que lo disfrutes ;3",
+        "button": "Contáctame",
+        "intro": "Mi introducción",
+        "sobre mi": "Sobre Mi"
+    },
+    "skills section":{
+        "section__subtitle0": "Mis Habilidades",
+        "section__title0": "Mi Experiencia",
+        "skills__title": "Desarrollador Frontend",
+        "skills__level0": "Intermedio",
+        "skills__level1": "Intermedio",
+        "skills__level2": "Intermedio",
+        "skills__level3": "Intermedio",
+        "skills__level4": "Basico",
+        "skills__level5": "Basico",
+        "skills__level6": "Intermedio",
+        "skills__level7": "Basico",
+        "skills__level8": "Intermedio",
+        "skills__title1" : "Diseño Web / Y más..."
+    },
+    "services section":{
+        "section__subtitle": "Mi Servicio",
+        "section__title": "Lo que Ofrezco",
+        "section__title1": "Desarrollo Web",
+        "section__más": "Ver Más",
+        "section__descripcion1":"+800hs codeando para realizar el mejor trabajo posible. Proporsionando calidad humana y profesional en el  mundo del desarrollo web.",
+        "section__check": "Desarrollo la interfaz de usuario",
+        "section__check2": "Excelente adaptabilidad y aprendizaje",
+        "section__check3": "Funcionamiento optimo",
+        "section__title3": "Diseño Visual Web",
+        "section__descripcion2": "Apacionado por el arte y la programacion. Mis dos paciones se juntan para dejar volar mi imaginacion y hacer diseños increibles en el Frontend",
+        "section__check4": "Desarrollo visual de paginas web",
+        "section__check5": "Orden y Dinamismo",
+        "section__check6": "Manejo de Librerias externas"
+    },
+    "contact section":{
+        "section__subtitle0":"Ponerse en contacto",
+        "section__title0": "Contactame",
+        "contact__title1": "Hablame",
+        "contact__button": "Escribeme",
+        "contact__title2": "Escribe un Correo",
+        "contact__form-tag0": "Nombre",
+        "contact__form-tag1": "Correo",
+        "contact__form-tag2": "Mensaje",
+        "button": "Enviar"
+    },
+    "footerr":{
+        "sobre": "Sobre",
+        "proyectos": "Proyectos",
+        "testimonios": "Testimonios"
+    },
+    "work section":{
+        "section__subtitle":"Mi Portafolio",
+        "section__title":"Trabajos Recientes",
+        "section__f1":"Todo",
+        "section__f2":"Diseño"
+    },
+    "testimonial section":{
+        "section__subtitle": "Opiniones",
+        "section__title":"Testimonios",
+        "section__1":"Tomás Lopez Mancina",
+        "section__2":"Christian Alfonso Vásquez",
+        "section__3":"Gisela Cingolani",
+        "section__4":"Gabriel Moyano",
+        "section__1d": "Marcos es un excelente profesional, tengo el placer de haber trabajado con el y puedo destacar sus habilidades tanto sociales como técnicas, siempre con muy buen humor generando una confianza a todos quien estén a su alrededor. Además de siempre estar guiando con soluciones en el código, un gusto haber trabajado con el.",
+        "section__2d":"Haber trabajado con Marcos fue un privilegio en todos los sentidos,  por su capacidad para aportar soluciones y conocimientos técnicos al proyecto, motivar constantemente al equipo a mejorar continuamente, su esmero por ayudar a los demás y nunca dejar a nadie atrás es admirable, es un gran compañero, del cual  pude aprender muchas cosas. Sin duda una persona con muchos valores y virtudes.",
+        "section__3d": "Tuve la gran experiencia de haber trabajado con Marcos. Desde el primer día se creo un hermoso ámbito de trabajo donde se destaco su liderazgo, compañerismo, su gran predisposición y voluntad a ayudar y compartirnos todos sus conocimientos en las diferentes tecnologías. Marcos es una excelente persona, apasionada y responsable, con la que sin dudas desearía volver a trabajar.",
+        "section__4d":"Marcos es una excelente persona ademas de un gran compañero de trabajo, siempre perseverando y generando un buen ambiente para que todos nos podamos enfocar en encontrar las mejores soluciones posibles"
+    }
+}

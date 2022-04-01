@@ -1,0 +1,85 @@
+{
+    "home section":{
+        "home__greeting":"Hello I am",
+        "home__education":"Full Stack Developer",
+        "home__buttons": "Download CV",
+        "button": "About Me"
+    },
+
+    "about section":{
+        "about__title0": "Experience",
+        "about__subtitle0": "+800 hours of coding",
+        "about__title1": "Projects",
+        "about__subtitle1": "X amount",
+        "about__title": "Attention",
+        "about__subtitle2": "In Line 24/7",
+        "about__description": "I am a Full Stack Developer and I have spent several months striving to learn and improve myself in this that I love so much that programming is. <br> Here you will find the results of this effort, I hope you enjoy it ;3",
+        "button": "Contact me",
+        "intro": "My introduction",
+        "sobre mi": "About Me"
+    },
+    "skills section":{
+        "section__subtitle0": "My abilities",
+        "section__title0": "My experience",
+        "skills__title": "Frontend Developer",
+        "skills__level0": "Middle",
+        "skills__level1": "Middle",
+        "skills__level2": "Middle",
+        "skills__level3": "Middle",
+        "skills__level4": "Basic",
+        "skills__level5": "Basic",
+        "skills__level6": "Middle",
+        "skills__level7": "Basic",
+        "skills__level8": "Middle",
+        "skills__title1" : "Backend Developer"
+    },
+    "services section":{
+        "section__subtitle": "My Service",
+        "section__title": "What i offer",
+        "section__title1": "Web Development",
+        "section__más": "See More",
+        "section__descripcion1":"+800 hours coding to do the best possible job. Providing human and professional quality in the world of web development.",
+        "section__check": "I develop the user interface",
+        "section__check2": "Excellent adaptability and learning",
+        "section__check3": "Optimum performance",
+        "section__title3": "Visual Web Design",
+        "section__descripcion2": "Passionate about art and programming. My two passions come together to let my imagination fly and make amazing designs on the Frontend",
+        "section__check4": "Visual Web Design",
+        "section__check5": "Order and Dynamism",
+        "section__check6": "Management of external libraries"
+    },
+    "contact section":{
+        "section__subtitle0":"Get in touch",
+        "section__title0": "Contact me",
+        "contact__title1": "Tell me",
+        "contact__button": "Write me",
+        "contact__title2": "Write an email",
+        "contact__form-tag0": "Name",
+        "contact__form-tag1": "Mail",
+        "contact__form-tag2": "Message",
+        "button": "Send"
+    },
+    "footerr":{
+        "sobre": "About",
+        "proyectos": "Projects",
+        "testimonios": "Testimonials"
+    },
+    "work section":{
+        "section__subtitle":"My Portfolio",
+        "section__title":"Recent works",
+        "section__f1":"All",
+        "section__f2":"Design"
+    },
+    "testimonial section":{
+        "section__subtitle": "Opinions",
+        "section__title":"Testimonials",
+        "section__1":"Tomás Lopez Mancina",
+        "section__2":"Christian Alfonso Vásquez",
+        "section__3":"Gisela Cingolani",
+        "section__4":"Gabriel Moyano",
+        "section__1d": "Marcos is an excellent professional, I have the pleasure of working with him and I can highlight his social and technical skills, always with a good humor generating confidence in everyone around him. In addition to always guiding with solutions in the code, it was a pleasure to have worked with him.",
+        "section__2d":"Having worked with Marcos was a privilege in every way, due to his ability to provide solutions and technical knowledge to the project, constantly motivate the team to continuously improve, his dedication to helping others and never leaving anyone behind is admirable, he is a great colleague, from whom I could learn many things. Without a doubt a person with many values ​​and virtues.",
+        "section__3d": "I had the great experience of working with Marcos. From the first day, a beautiful work environment was created where his leadership, camaraderie, his great predisposition and willingness to help and share all his knowledge in different technologies stood out. Marcos is an excellent person, passionate and responsible, with whom I would undoubtedly want to work again..",
+        "section__4d":"Marcos is an excellent person as well as a great colleague, always persevering and creating a good environment so that we can all focus on finding the best possible solutions."
+    }
+}
