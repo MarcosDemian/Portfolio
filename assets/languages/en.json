@@ -68,7 +68,9 @@
         "section__subtitle":"My Portfolio",
         "section__title":"Recent works",
         "section__f1":"All",
-        "section__f2":"Design"
+        "section__f2":"Design",
+        "section__irene1": "Irene/Desktop",
+        "section__irene2": "Irene/Movile"
     },
     "testimonial section":{
         "section__subtitle": "Opinions",

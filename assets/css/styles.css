@@ -325,18 +325,20 @@ body.light-theme{
 
 .home__img{
   width: 200px;
-  height: 453px;
+  height: 353px;
+  border-radius: 38% 62% 63% 37% / 35% 64% 36% 65% ;
 }
 
 .home__handle{
   justify-self: center;
   width: 200px;
   height: 405px;
+  border-radius: 20px;
   /*background: linear-gradient(180deg,
               hsla(var(--first-hue), var(--sat), var(--lig), 1),
               hsla(var(--first-hue), var(--sat), var(--lig), .2)
               ); */
-  border-radius: .5rem .5rem .5rem .5rem;
+  /* border-radius: .5rem .5rem .5rem .5rem; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -490,8 +492,8 @@ body.light-theme{
 
 .about__info{
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: .5rem;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
   margin-bottom: 2rem;
 }
 
@@ -1004,12 +1006,13 @@ body.light-theme{
   }
 
   .about__info{
-    grid-template-columns: repeat(3, 140px);
+    grid-template-columns: repeat(2, 140px);
     justify-content: center;
   }
 
   .about__description{
     padding: 0 5rem;
+    color: black;
   }
 
   .skills__container{
@@ -1129,7 +1132,7 @@ body.light-theme{
   }
 
   .services__container{
-    grid-template-columns: repeat(3, 192px);
+    grid-template-columns: repeat(2, 192px);
     column-gap: 3rem;
   }
   .services__card{

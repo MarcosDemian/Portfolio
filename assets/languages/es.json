@@ -68,7 +68,9 @@
         "section__subtitle":"Mi Portafolio",
         "section__title":"Trabajos Recientes",
         "section__f1":"Todo",
-        "section__f2":"Diseño"
+        "section__f2":"Diseño",
+        "section__irene1": "Irene/Escritorio",
+        "section__irene2": "Irene/Celular"
     },
     "testimonial section":{
         "section__subtitle": "Opiniones",
