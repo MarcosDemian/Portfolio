@@ -18,6 +18,10 @@
         "intro": "Mi introducción",
         "sobre mi": "Sobre Mi"
     },
+    "certificates section":{
+        "cert_subT": "Cursos / Educacion",
+        "cert_Titl": "Certificados"
+    },
     "skills section":{
         "section__subtitle0": "Mis Habilidades",
         "section__title0": "Mi Experiencia",
