@@ -521,6 +521,16 @@ body.light-theme{
     margin-bottom: 2rem;
 }
 
+/*=============== CERTIFICATES ===============*/
+.certificates__container{
+  text-align: center;
+}
+
+.certificate__img{
+  width: 75%;
+  height: 75%;
+}
+
 /*=============== SKILLS ===============*/
 .skills__container{
   row-gap: 2rem;
