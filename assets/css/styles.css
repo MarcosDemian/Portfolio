@@ -529,6 +529,7 @@ body.light-theme{
 .certificate__img{
   width: 75%;
   height: 75%;
+  padding: 15px 0 15px 0;
 }
 
 /*=============== SKILLS ===============*/
