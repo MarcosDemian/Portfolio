@@ -791,7 +791,6 @@ body.light-theme{
 
 /*=============== CONTACT ===============*/
 .contact__container{
-  row-gap: 3rem;
   padding-bottom: 3rem;
 }
 
@@ -1070,9 +1069,7 @@ body.light-theme{
   }
 
   .contact__container{
-    grid-template-columns: repeat(2, max-content);
     justify-content: center;
-    column-gap: 3rem;
   }
 }
 
